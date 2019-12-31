@@ -1,10 +1,10 @@
 package app11;
 
-public class Myclass {
+public class MyClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Welcome to z-shop by sandeep");
+		System.out.println("Welcome to My app");
 	}
 
 }
